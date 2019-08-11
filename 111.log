@@ -1,0 +1,3 @@
+[2019-08-11 18:58:26] testlog.py line:8 WARNING This is a warning level message
+[2019-08-11 18:58:26] testlog.py line:9 ERROR   This is a error level message
+[2019-08-11 18:58:26] testlog.py line:10 CRITICALThis is a critical level message

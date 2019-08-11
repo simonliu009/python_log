@@ -2,7 +2,7 @@
 
 import log
 
-log = log.Log(filename='111.log', mode='a', limit= 512, backup_count = 10, colorful = True)
+log = log.Log(filename='111.log', mode='a', cmdlevel = 'DEBUG', filelevel = 'INFO', limit= 512, backup_count = 10, colorful = True)
 log.debug('This is a debug level message')
 log.info('This is a info level message')
 log.warning('This is a warning level message')
