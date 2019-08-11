@@ -1,6 +1,6 @@
 # python_log
 
-用法：
+用法
 ```python
 import log
 
@@ -11,5 +11,5 @@ log.warning('This is a warning level message')
 log.error('This is a error level message')
 log.critical('This is a critical level message')
 ```
-
+注：为了测试我把limit设为512字节。请酌情修改。
 
